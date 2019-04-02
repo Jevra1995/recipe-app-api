@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$USER_HOME$/BCS/bcs-be" vcs="Git" />
+    <mapping directory="$USER_HOME$/HUMEDS" vcs="Git" />
+    <mapping directory="$USER_HOME$/HUMEDS/humeds_fe" vcs="Git" />
+    <mapping directory="$USER_HOME$/HUMEDS/humeds_proc_node" vcs="Git" />
+  </component>
+</project>

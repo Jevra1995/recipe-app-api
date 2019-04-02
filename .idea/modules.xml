@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/HUMEDS/Humeds/.idea/Humeds.iml" filepath="$USER_HOME$/HUMEDS/Humeds/.idea/Humeds.iml" />
+      <module fileurl="file://$USER_HOME$/BCS/bcs-be/.idea/bcs-be.iml" filepath="$USER_HOME$/BCS/bcs-be/.idea/bcs-be.iml" />
+      <module fileurl="file://$USER_HOME$/HUMEDS/humeds_fe/.idea/humeds_fe.iml" filepath="$USER_HOME$/HUMEDS/humeds_fe/.idea/humeds_fe.iml" />
+      <module fileurl="file://$USER_HOME$/HUMEDS/humeds_file_server/humeds_file_server.iml" filepath="$USER_HOME$/HUMEDS/humeds_file_server/humeds_file_server.iml" />
+      <module fileurl="file://$USER_HOME$/HUMEDS/humeds_proc_node/.idea/humeds_proc_node.iml" filepath="$USER_HOME$/HUMEDS/humeds_proc_node/.idea/humeds_proc_node.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/recipe-app-api.iml" filepath="$PROJECT_DIR$/.idea/recipe-app-api.iml" />
+    </modules>
+  </component>
+</project>
